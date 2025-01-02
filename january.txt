@@ -3,3 +3,7 @@ hello global
 iam new to this year 
 
 iam getting to know all about you
+
+now i got the branch statshing through some outsources
+
+let him do some other changes by doing stash apply commands
